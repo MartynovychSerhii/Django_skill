@@ -1,0 +1,6 @@
+.idea/
+**/__pycache__/
+*.pyc
+mysite/db.sqlite3
+.env
+.venv/
